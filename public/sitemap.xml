@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://photos.taylorm.cc/california/</loc>
+    <lastmod>2017-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://photos.taylorm.cc/food/</loc>
+    <lastmod>2016-10-21T19:17:45+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://photos.taylorm.cc/landscapes/</loc>
+    <lastmod>2016-10-21T19:15:46+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://photos.taylorm.cc/seattle/</loc>
+    <lastmod>2016-10-21T19:07:42+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://photos.taylorm.cc/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://photos.taylorm.cc/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://photos.taylorm.cc/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

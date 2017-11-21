@@ -1,0 +1,78 @@
+# Settings
+baseurl = "http://photos.taylorm.cc/"
+languageCode = "en-us"
+title = "A Collection of Photos"
+theme = "phugo"
+# googleAnalytics = "UA-XXXXXXX-Y"
+
+[params]
+
+    # Meta
+    description = "My collection of somewhat interesting photos"
+    author = "Taylor McClure"
+    keywords = "taylor, mcclure, taylor mcclure, photos, landscapes, minimal"
+
+    # Headerbar links
+    # Do not put here too many links,
+    # it will break mobile appearance
+
+    [[params.header.links]]
+    name = "About"
+    url = "#footer"
+    icon = "fa-info-circle"
+
+    # Footer panel
+
+    [params.footer.paragraph]
+    headline = "About Me"
+    text = "My name is Taylor McClure. I take pictures of things that I believe are visually pleasing. Mostly this consists of nature, specifically landscapes. I also have a Pomeranian named Rusty that appears frequently in my work. I think is quite a photogenic pupper."
+
+    [params.footer.social]
+    headline = "Follow me"
+
+    [[params.footer.social.links]]
+    label = "Github"
+    url = "https://github.com/taylorsmcclure"
+    icon = "fa-github"
+
+    [[params.footer.social.links]]
+    label = "LinkedIn"
+    url = "https://www.linkedin.com/in/taylormcclure/"
+    icon = "fa-linkedin"
+
+    # Contact form
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'realEmail' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+
+    [params.footer.contact]
+    realEmail = "blog@taylorm.cc"
+    headline = "Get in touch"
+    buttonText = "Send"
+    resetText = "Reset"
+
+    # 'warning' defines error messages for invalid inputs
+    [params.footer.contact.name]
+    text = "Name *"
+    warning = "Please, enter your name"
+
+    [params.footer.contact.email]
+    text = "Email *"
+    warning = "Please, enter your email."
+
+    [params.footer.contact.message]
+    text = "Message *"
+    warning = "Please, enter your message"
+
+    # Copyright
+    [params.footer.copyright]
+    name = "Taylor McClure 2017"
