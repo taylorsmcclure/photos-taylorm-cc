@@ -1,30 +1,24 @@
 +++
-albumthumb = "https://s3-us-west-1.amazonaws.com/img.taylorm.cc/California/dad_cali_10_of_17.jpg"
-date = "2017-10-26"
+albumthumb = "https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast+(1+of+16).jpg"
+date = "2017-12-09"
 title = "California"
-
 +++
-
-{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/California/dad_cali_10_of_17.jpg?text=Full+Image" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/California/dad_cali_10_of_17.jpg" alt="" phototitle="Magna feugiat lorem" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
-
-{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/California/dad_cali_10_of_17.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/California/dad_cali_10_of_17.jpg" alt="" phototitle="Nisl adipiscing" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
-
-{{< photo full="http://placehold.it/1024x683/A25F3C/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/A25F3C/ffffff?text=Thumbnail" alt="" phototitle="Tempus aliquam veroeros" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
-
-{{< photo full="http://placehold.it/1024x683/45352C/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/45352C/ffffff?text=Thumbnail" alt="" phototitle="Aliquam ipsum sed dolore" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
-
-{{< photo full="http://placehold.it/1024x683/CDB5A6/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/CDB5A6/ffffff?text=Thumbnail" alt="" phototitle="Cursis aliquam nisl" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
-
-{{< photo full="http://placehold.it/1024x683/321F14/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/321F14/ffffff?text=Thumbnail" alt="" phototitle="Sed consequat phasellus" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
-
-{{< photo full="http://placehold.it/1024x683/C49578/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/C49578/ffffff?text=Thumbnail" alt="" phototitle="Mauris id tellus arcu" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
-
-{{< photo full="http://placehold.it/1024x683/60493D/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/60493D/ffffff?text=Thumbnail" alt="" phototitle="Nunc vehicula id nulla" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
-
-{{< photo full="http://placehold.it/1024x683/CE814E/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/CE814E/ffffff?text=Thumbnail" alt="" phototitle="Neque et faucibus viverra" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
-
-{{< photo full="http://placehold.it/1024x683/232322/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/232322/ffffff?text=Thumbnail" alt="" phototitle="Mattis ante fermentum" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
-
-{{< photo full="http://placehold.it/1024x683/B4A99E/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/B4A99E/ffffff?text=Thumbnail" alt="" phototitle="Sed ac elementum arcu" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
-
-{{< photo full="http://placehold.it/1024x683/7D5F50/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/7D5F50/ffffff?text=Thumbnail" alt="" phototitle="Vehicula id nulla dignissim" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/cali_coast+(1+of+16).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast+(1+of+16).jpg" alt="cali_coast (1 of 16).jpg" phototitle="cali_coast (1 of 16).jpg" description="cali_coast (1 of 16).jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/cali_coast+(10+of+16).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast+(10+of+16).jpg" alt="cali_coast (10 of 16).jpg" phototitle="cali_coast (10 of 16).jpg" description="cali_coast (10 of 16).jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/cali_coast+(11+of+16).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast+(11+of+16).jpg" alt="cali_coast (11 of 16).jpg" phototitle="cali_coast (11 of 16).jpg" description="cali_coast (11 of 16).jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/cali_coast+(12+of+16).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast+(12+of+16).jpg" alt="cali_coast (12 of 16).jpg" phototitle="cali_coast (12 of 16).jpg" description="cali_coast (12 of 16).jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/cali_coast+(13+of+16).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast+(13+of+16).jpg" alt="cali_coast (13 of 16).jpg" phototitle="cali_coast (13 of 16).jpg" description="cali_coast (13 of 16).jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/cali_coast+(14+of+16).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast+(14+of+16).jpg" alt="cali_coast (14 of 16).jpg" phototitle="cali_coast (14 of 16).jpg" description="cali_coast (14 of 16).jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/cali_coast+(15+of+16).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast+(15+of+16).jpg" alt="cali_coast (15 of 16).jpg" phototitle="cali_coast (15 of 16).jpg" description="cali_coast (15 of 16).jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/cali_coast+(16+of+16).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast+(16+of+16).jpg" alt="cali_coast (16 of 16).jpg" phototitle="cali_coast (16 of 16).jpg" description="cali_coast (16 of 16).jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/cali_coast+(2+of+16).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast+(2+of+16).jpg" alt="cali_coast (2 of 16).jpg" phototitle="cali_coast (2 of 16).jpg" description="cali_coast (2 of 16).jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/cali_coast+(3+of+16).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast+(3+of+16).jpg" alt="cali_coast (3 of 16).jpg" phototitle="cali_coast (3 of 16).jpg" description="cali_coast (3 of 16).jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/cali_coast+(4+of+16).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast+(4+of+16).jpg" alt="cali_coast (4 of 16).jpg" phototitle="cali_coast (4 of 16).jpg" description="cali_coast (4 of 16).jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/cali_coast+(5+of+16).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast+(5+of+16).jpg" alt="cali_coast (5 of 16).jpg" phototitle="cali_coast (5 of 16).jpg" description="cali_coast (5 of 16).jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/cali_coast+(6+of+16).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast+(6+of+16).jpg" alt="cali_coast (6 of 16).jpg" phototitle="cali_coast (6 of 16).jpg" description="cali_coast (6 of 16).jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/cali_coast+(7+of+16).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast+(7+of+16).jpg" alt="cali_coast (7 of 16).jpg" phototitle="cali_coast (7 of 16).jpg" description="cali_coast (7 of 16).jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/cali_coast_fb+(1+of+16).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast_fb+(1+of+16).jpg" alt="cali_coast_fb (1 of 16).jpg" phototitle="cali_coast_fb (1 of 16).jpg" description="cali_coast_fb (1 of 16).jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/cali_coast_fb+(10+of+16).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast_fb+(10+of+16).jpg" alt="cali_coast_fb (10 of 16).jpg" phototitle="cali_coast_fb (10 of 16).jpg" description="cali_coast_fb (10 of 16).jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/cali_coast_fb+(11+of+16).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast_fb+(11+of+16).jpg" alt="cali_coast_fb (11 of 16).jpg" phototitle="cali_coast_fb (11 of 16).jpg" description="cali_coast_fb (11 of 16).jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/cali_coast_fb+(12+of+16).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast_fb+(12+of+16).jpg" alt="cali_coast_fb (12 of 16).jpg" phototitle="cali_coast_fb (12 of 16).jpg" description="cali_coast_fb (12 of 16).jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/cali_coast_fb+(16+of+16).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/cali_coast_fb+(16+of+16).jpg" alt="cali_coast_fb (16 of 16).jpg" phototitle="cali_coast_fb (16 of 16).jpg" description="cali_coast_fb (16 of 16).jpg" >}}
