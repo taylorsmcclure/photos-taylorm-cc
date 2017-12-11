@@ -10,4 +10,4 @@
 
 ## Design
 
-![Site Architecture](docs/photos-taylorm-cc.svg)
+![Site Architecture](docs/photos-taylorm-cc.png)
