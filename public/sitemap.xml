@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://photos.taylorm.cc/california/</loc>
+    <loc>https://photos.taylorm.cc/california/</loc>
     <lastmod>2017-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://photos.taylorm.cc/kukur-tihar/</loc>
+    <loc>https://photos.taylorm.cc/doge/</loc>
     <lastmod>2017-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://photos.taylorm.cc/</loc>
+    <loc>https://photos.taylorm.cc/maui/</loc>
+    <lastmod>2017-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://photos.taylorm.cc/misc/</loc>
+    <lastmod>2017-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://photos.taylorm.cc/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://photos.taylorm.cc/categories/</loc>
+    <loc>https://photos.taylorm.cc/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://photos.taylorm.cc/tags/</loc>
+    <loc>https://photos.taylorm.cc/tags/</loc>
     <priority>0</priority>
   </url>
   

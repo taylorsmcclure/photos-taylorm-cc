@@ -1,0 +1,15 @@
++++
+albumthumb = "https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/Doge/chilling_in_the_wind.jpg"
+date = "2017-12-09"
+title = "Doge"
++++
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/Doge/chilling_in_the_wind.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/Doge/chilling_in_the_wind.jpg" alt="chilling_in_the_wind.jpg" phototitle="chilling_in_the_wind.jpg" description="chilling_in_the_wind.jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/Doge/daveport_beach+(3+of+3).jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/Doge/daveport_beach+(3+of+3).jpg" alt="daveport_beach (3 of 3).jpg" phototitle="daveport_beach (3 of 3).jpg" description="daveport_beach (3 of 3).jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/Doge/half_dome_doge.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/Doge/half_dome_doge.jpg" alt="half_dome_doge.jpg" phototitle="half_dome_doge.jpg" description="half_dome_doge.jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/Doge/happy_doge.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/Doge/happy_doge.jpg" alt="happy_doge.jpg" phototitle="happy_doge.jpg" description="happy_doge.jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/Doge/hey_man.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/Doge/hey_man.jpg" alt="hey_man.jpg" phototitle="hey_man.jpg" description="hey_man.jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/Doge/hobo_doges.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/Doge/hobo_doges.jpg" alt="hobo_doges.jpg" phototitle="hobo_doges.jpg" description="hobo_doges.jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/Doge/king_of_the_wasteland.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/Doge/king_of_the_wasteland.jpg" alt="king_of_the_wasteland.jpg" phototitle="king_of_the_wasteland.jpg" description="king_of_the_wasteland.jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/Doge/kukur_tihar_regal.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/Doge/kukur_tihar_regal.jpg" alt="kukur_tihar_regal.jpg" phototitle="kukur_tihar_regal.jpg" description="kukur_tihar_regal.jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/Doge/kukur_tihar_tongue.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/Doge/kukur_tihar_tongue.jpg" alt="kukur_tihar_tongue.jpg" phototitle="kukur_tihar_tongue.jpg" description="kukur_tihar_tongue.jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/Doge/kukur_tohar_nugget.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/Doge/kukur_tohar_nugget.jpg" alt="kukur_tohar_nugget.jpg" phototitle="kukur_tohar_nugget.jpg" description="kukur_tohar_nugget.jpg" >}}

@@ -1,9 +1,9 @@
 # Settings
-baseurl = "http://photos.taylorm.cc/"
+baseurl = "https://photos.taylorm.cc/"
 languageCode = "en-us"
 title = "A Collection of Photos"
 theme = "phugo"
-# googleAnalytics = "UA-XXXXXXX-Y"
+googleAnalytics = "UA-109217385-3"
 
 [params]
 
