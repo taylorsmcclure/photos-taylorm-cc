@@ -1,6 +1,6 @@
 +++
 albumthumb = "https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/Maui/beautiful_ocean.jpg"
-date = "2017-12-09"
+date = "2017-12-12"
 title = "Maui"
 +++
 {{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/Maui/beautiful_ocean.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/Maui/beautiful_ocean.jpg" alt="beautiful_ocean.jpg" phototitle="beautiful_ocean.jpg" description="beautiful_ocean.jpg" >}}

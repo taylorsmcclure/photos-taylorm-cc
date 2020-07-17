@@ -1,15 +1,15 @@
 +++
 albumthumb = "https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/80s_rock_cover.jpg"
-date = "2017-12-09"
+date = "2017-12-12"
 title = "California"
 +++
 {{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/80s_rock_cover.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/80s_rock_cover.jpg" alt="80s_rock_cover.jpg" phototitle="80s_rock_cover.jpg" description="80s_rock_cover.jpg" >}}
 {{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/awesome_beach.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/awesome_beach.jpg" alt="awesome_beach.jpg" phototitle="awesome_beach.jpg" description="awesome_beach.jpg" >}}
+{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/coastal_cornfield.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/coastal_cornfield.jpg" alt="coastal_cornfield.jpg" phototitle="coastal_cornfield.jpg" description="coastal_cornfield.jpg" >}}
 {{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/dad_shooting.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/dad_shooting.jpg" alt="dad_shooting.jpg" phototitle="dad_shooting.jpg" description="dad_shooting.jpg" >}}
 {{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/dramatic_wave.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/dramatic_wave.jpg" alt="dramatic_wave.jpg" phototitle="dramatic_wave.jpg" description="dramatic_wave.jpg" >}}
 {{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/half_dome_yosemite.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/half_dome_yosemite.jpg" alt="half_dome_yosemite.jpg" phototitle="half_dome_yosemite.jpg" description="half_dome_yosemite.jpg" >}}
 {{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/hdr_sunset_fort_funston.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/hdr_sunset_fort_funston.jpg" alt="hdr_sunset_fort_funston.jpg" phototitle="hdr_sunset_fort_funston.jpg" description="hdr_sunset_fort_funston.jpg" >}}
 {{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/lighthouse_in_distance.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/lighthouse_in_distance.jpg" alt="lighthouse_in_distance.jpg" phototitle="lighthouse_in_distance.jpg" description="lighthouse_in_distance.jpg" >}}
 {{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/sunset_in_the_valley.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/sunset_in_the_valley.jpg" alt="sunset_in_the_valley.jpg" phototitle="sunset_in_the_valley.jpg" description="sunset_in_the_valley.jpg" >}}
-{{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/wildflowers.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/wildflowers.jpg" alt="wildflowers.jpg" phototitle="wildflowers.jpg" description="wildflowers.jpg" >}}
 {{< photo full="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/images/California/windy_surf.jpg" thumb="https://s3-us-west-1.amazonaws.com/img.taylorm.cc/thumbs/California/windy_surf.jpg" alt="windy_surf.jpg" phototitle="windy_surf.jpg" description="windy_surf.jpg" >}}
