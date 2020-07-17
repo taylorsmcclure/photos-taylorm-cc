@@ -76,7 +76,7 @@ googleAnalytics = "UA-109217385-3"
 
     [params.footer.contact.message]
     text = "Message *"
-    warning = "Please, enter your message"
+    warning = "Please, enter your message."
 
     # Copyright
     [params.footer.copyright]
