@@ -76,8 +76,8 @@ googleAnalytics = "UA-109217385-3"
 
     [params.footer.contact.message]
     text = "Message *"
-    warning = "Please, enter your message"
+    warning = "Please, enter your message."
 
     # Copyright
     [params.footer.copyright]
-    name = "Taylor McClure 2017"
+    name = "Taylor McClure 2020"
